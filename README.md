@@ -17,7 +17,7 @@
 
 ## [3.flights-search-cli](https://github.com/jaebradley/flights-search-cli)
 
-[Kiwi Search APi](
+[Kiwi Search APi](https://skypickerpublicapi.docs.apiary.io/#)  
 
 ## 4.Front End Use
 
